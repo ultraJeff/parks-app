@@ -2,7 +2,7 @@ package com.redhat.smartcity;
 
 import java.util.Set;
 
-import javax.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.ApplicationScoped;
 
 import io.smallrye.jwt.build.Jwt;
 
