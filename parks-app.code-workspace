@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../parks-dashboard"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../parks-weather"
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
